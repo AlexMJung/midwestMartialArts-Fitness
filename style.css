@@ -2,8 +2,12 @@
     font-size: 3rem
 }
 
+.center {
+    text-align: center;
+}
+
 body {
-    background-color: gray;
+    background-color: #595959;
     font-size: 1rem;
     color: whitesmoke;
 }
