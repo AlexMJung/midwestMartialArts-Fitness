@@ -1,13 +1,28 @@
-.businessName {
-    font-size: 3rem
+h1 {
+    font-size: 6em
 }
 
+h3 {
+    font-size: 4em
+}
 .center {
     text-align: center;
 }
 
 body {
     background-color: #595959;
-    font-size: 1rem;
     color: whitesmoke;
+}
+
+img {
+    height: 20rem;
+    border:.8rem solid aliceblue;
+}
+
+.SamFont{
+    font-family: 'Pacifico', cursive;
+}
+
+.DanFont{
+    font-family: 'Cinzel', serif;
 }
