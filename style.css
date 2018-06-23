@@ -28,6 +28,10 @@ ul {
 footer{
     background-color: Darkred;
 }
+
+.header{
+    background-color: darkred;
+}
 /* .SamFont{
     font-family: 'Pacifico', cursive;
 }
