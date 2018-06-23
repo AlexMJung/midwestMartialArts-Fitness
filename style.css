@@ -21,6 +21,13 @@ img {
     border:.8rem solid aliceblue;
 }
 
+ul {
+    list-style-type:none
+}
+
+footer{
+    background-color: Darkred;
+}
 /* .SamFont{
     font-family: 'Pacifico', cursive;
 }
