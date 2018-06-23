@@ -32,10 +32,19 @@ footer{
 .header{
     background-color: darkred;
 }
-/* .SamFont{
+a{
+    color:whitesmoke;
+}
+a:clicked{
+    color:whitesmoke;
+}
+a:hover{
+    color:black;
+}
+.SamFont{
     font-family: 'Pacifico', cursive;
 }
 
 .DanFont{
     font-family: 'Cinzel', serif;
-} */
+}
