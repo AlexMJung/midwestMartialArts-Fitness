@@ -48,3 +48,7 @@ a:hover{
 .DanFont{
     font-family: 'Cinzel', serif;
 }
+.facebook img{
+    height: 3rem;
+    border-width: 0rem;
+}
