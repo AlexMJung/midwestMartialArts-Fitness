@@ -2,7 +2,11 @@ h1 {
     font-size: 6em;
     font-family: Impact, sans-serif;
 }
-
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 5em;
+}
 h3 {
     font-size: 4em
 }
@@ -11,7 +15,7 @@ h3 {
 }
 
 body {
-    background-color: #595959;
+    background-color: #393939;
     color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -51,4 +55,11 @@ a:hover{
 .facebook img{
     height: 3rem;
     border-width: 0rem;
+}
+.football{
+    font-size: 2rem;
+}
+
+table{
+    float:center;
 }
